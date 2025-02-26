@@ -1,8 +1,10 @@
-# mestrado
+# Mestrado
 Repositório do projeto de mestrado que visa avaliar a saúde perinatal no Brasil. 
 
-OBJETIVOS
-#Geral
+# Objetivos
+
+Geral
+
 "Descrever o perfil de nascidos vivos no Brasil, estimar os custos diretos sanitários decorrentes da assistência perinatal hospitalar no Brasil entre 2011 e 2022, estimar a taxa de mortalidade intra-hospitalar materna e neonatal, além de analisar a associação da idade gestacional do nascimento com os custos hospitalares e o impacto de políticas públicas na saúde materna e infantil." 
 
   Objetivos específicos
